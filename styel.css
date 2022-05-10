@@ -1,6 +1,5 @@
 h1{
     color: #000000;
-    position: relative; left: 100px;
 }
 body{
     background: #eeeeee;
@@ -8,8 +7,12 @@ body{
 }
 div{
     background: #ffffff;
-    width: 299px;
-    padding: 9px;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
     border: 1px solid #cccccc;
-    margin: 29px auto;
+    margin: 30px auto;
+}
+canvas {
+    border: 1px solid black;
 }
